@@ -9,3 +9,4 @@ const connect = async () => {
 }
 
 connect()
+US.VIEW:   toBool(process.env.AUTO_STATUS
