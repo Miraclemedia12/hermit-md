@@ -3,4 +3,3 @@ build:
     worker: /lib/Dockerfile
 run:
   worker: npm start
-AUTO_STATUS_VIEW:  toBool(process.env.AUTO_STATUS_VIEW).
